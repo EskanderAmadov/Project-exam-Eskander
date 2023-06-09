@@ -1,5 +1,8 @@
 ## Project Exam 1
 
+![IM Travel blog](https://github.com/EskanderAmadov/Prosjekt_eksamen_iskander/assets/114715507/0e6dfc64-d9ce-4fde-be36-394e0b89793e)
+
+
 ## Description
 
 This is the GitHub repository for the IM-travel blog website.
