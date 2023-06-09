@@ -17,10 +17,9 @@ Built With
 
 The IM travek blogsite is built with the following technologies:
 
-HTML
-CSS
-JavaScript
-Wordpress CMS
-Installing
+•HTML
+•CSS
+•JavaScript
+•Wordpress CMS
+•Installing
 
-Clone the repo, open it with Visual Studio Code and run it with Live Server.
