@@ -1,6 +1,7 @@
 ## Project Exam 1
 
-![IM Travel blog](https://github.com/EskanderAmadov/Prosjekt_eksamen_iskander/assets/114715507/0e6dfc64-d9ce-4fde-be36-394e0b89793e)
+
+![IM Travel blog](https://github.com/EskanderAmadov/Prosjekt_eksamen_iskander/assets/114715507/f0829940-5965-4260-b8d0-1928ca7797a9)
 
 
 ## Description
